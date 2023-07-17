@@ -1,4 +1,4 @@
-![MasterHead]()
+
 <h2 align="center">A Passionate Remote Full Stack Developer, Ready for Adventure 😎💻
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2>
@@ -17,12 +17,12 @@
   
 <h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=7.5% /> Connect with me:</h2>
 
-   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/iqbal.elh/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iqbal_elham/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-elham/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IqbalElham7/) 
-[![Hackerrank](https://img.shields.io/badge/hackerrank-%234ea94b.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iqbal_elham7) 
-[![Twitter](https://img.shields.io/badge/codechef-%231DA1F2.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/iqbalelham7) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/iqbal.elh/](https://www.facebook.com/profile.php?id=100079985746794)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahdiniazi62434/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mahdi-niazi-58a262235/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahdiniazi1/) 
+[![Hackerrank](https://img.shields.io/badge/hackerrank-%234ea94b.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/m_mahdi_niazi) 
+[![Twitter](https://img.shields.io/badge/codechef-%231DA1F2.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/mmahdiniazi) 
 <p align="left">
 
 
@@ -59,7 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Niazi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi Github Stats"> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-niazi&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi" />
      <br>
      <br>
-     <img width=59% src="https://github-readme-activity-graph.cyclic.app/graph?username=mahdi-niazi&layout=compact&show_icons=true&count_private=true&theme=react-dark" alt="GitHub Stats" />
   </a>
 </p>
 <br>
@@ -70,11 +69,4 @@
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="mahdi-niazi" />
 <div />
 <br>
-
-<a href="" align='center'><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/iqbal-elham/count.svg" />
-</p>
 
