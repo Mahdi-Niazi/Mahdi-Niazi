@@ -1,5 +1,5 @@
 
-<h2 align="center">A Passionate Web Design Specialist, Ready for Adventure 😎💻
+<h2 align="center">A Passionate Front-end Developer, Ready for Adventure 😎💻
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2>
 <img align="right" alt="coding" width="400" src="https://converteddigital.com/wp-content/uploads/2023/09/web-design.gif">
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [MY Portfolio](https://github.com/Mahdi-Niazi?tab=repositories)
 
-- 💬 Ask me about **Laravel, JavaScript, HTML and CSS**
+- 💬 Ask me about **React, JavaScript, HTML and CSS**
 
 - 📫 How to reach me **Email**
 
