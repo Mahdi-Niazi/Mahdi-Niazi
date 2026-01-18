@@ -70,12 +70,8 @@ I am a passionate Front-End Developer with a strong interest in building respons
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahdi-niazi" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Niazi&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,000000,130F40&text_color=D3D3D3&title_color=7A7ADB&icon_color=2234AE&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-niazi&layout=compact&bg_color=0,000000,130F40&text_color=daf7dc&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-niazi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-niazi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
