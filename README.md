@@ -1,72 +1,87 @@
-
-<h2 align="center">A Passionate Front-end Developer, Ready for Adventure 😎💻
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">
+Front-End Developer | Building Clean & Modern Web Experiences
 </h2>
-<img align="right" alt="coding" width="400" src="https://converteddigital.com/wp-content/uploads/2023/09/web-design.gif">
 
-
-- 🌱 I’m currently learning **IBM Full Stack Software Developer Professional Certificate**
-
-- 👨‍💻 All of my projects are available at [MY Portfolio](https://github.com/Mahdi-Niazi?tab=repositories)
-
-- 💬 Ask me about **React, JavaScript, HTML and CSS**
-
-- 📫 How to reach me **Email**
-
-- 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/mohammad-mahdi-niazi/)
-  
-<h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=7.5% /> Connect with me:</h2>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079985746794)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahdiniazi62434/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mahdi-niazi-58a262235/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahdiniazi1/) 
-[![Hackerrank](https://img.shields.io/badge/hackerrank-%234ea94b.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/m_mahdi_niazi) 
-[![Twitter](https://img.shields.io/badge/codechef-%231DA1F2.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/mmahdiniazi) 
-<p align="left">
-
-
-<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=3% /> Languages and Tools:</h2>
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,django,java,py,ruby,sqlite,webpack,ps,html,css,sass,js,react,redux,mysql,mongodb,git,github,vscode,figma)](https://skillicons.dev) -->
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) <br>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-F5788D.svg?style=flat&logo=sass&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)  <br>
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
-
-<h2 align="left">Support:</h2>
-<p align="center"><a href="https://www.buymeacoffee.com/mahdiniazi62434"> 
-   
-<a href="https://www.buymeacoffee.com/mahdiniazi62434" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-   
-<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=3% /> My Stats:</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-niazi" alt="mahdi niazi" /></a> </p>
-
-<br>
 <p align="center">
-  <a href="https://github.com/mahdi-niazi/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Niazi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi Github Stats"> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-niazi&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi" />
-     <br>
-     <br>
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
 </p>
-<br>
-   
-<h2 align="left">✍️Random Dev Quote:</h2>
 
-<div align="center"> 
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="mahdi-niazi" />
-<div />
-<br>
+<img align="right" width="380" src="https://converteddigital.com/wp-content/uploads/2023/09/web-design.gif" />
 
+---
+
+### 👋 About Me
+
+I am a passionate Front-End Developer with a strong interest in building responsive, user-friendly, and visually appealing web applications. I enjoy learning new technologies and continuously improving my problem-solving skills.
+
+- 🌱 Currently studying **IBM Full Stack Software Developer Professional Certificate**
+- 👨‍💻 Projects available on my **[GitHub Portfolio](https://github.com/Mahdi-Niazi?tab=repositories)**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 📫 Contact: **Email**
+- 📄 Resume: **[LinkedIn Profile](https://www.linkedin.com/in/mohammad-mahdi-niazi/)**
+
+---
+
+## 🤝 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079985746794)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mahdiniazi62434/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mahdi-niazi-58a262235/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mahdiniazi1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-4ea94b?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/m_mahdi_niazi)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/mmahdiniazi)
+
+---
+
+## 🛠️ Languages & Tools
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![Sass](https://img.shields.io/badge/Sass-F5788D?logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-000000?logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/mahdiniazi62434" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mahdi-niazi" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Niazi&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,000000,130F40&text_color=D3D3D3&title_color=7A7ADB&icon_color=2234AE&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-niazi&layout=compact&bg_color=0,000000,130F40&text_color=daf7dc&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
+</p>
