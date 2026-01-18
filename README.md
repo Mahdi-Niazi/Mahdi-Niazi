@@ -67,12 +67,13 @@ I am a passionate Front-End Developer with a strong interest in building respons
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-niazi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-niazi&layout=compact&theme=tokyonight" />
-</p>
+| Project | Tech | Link |
+|-------|------|------|
+| Portfolio Website | HTML, CSS, JS | [View](https://github.com/mahdi-niazi) |
+| React Dashboard | React, API | [View](https://github.com/mahdi-niazi) |
+| Login System | PHP, MySQL | [View](https://github.com/mahdi-niazi) |
 
 ---
 
