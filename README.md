@@ -26,7 +26,7 @@ I am a passionate Front-End Developer with a strong interest in building respons
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079985746794)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mahdiniazi62434/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mahdi-niazi-58a262235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mahdi-niazi/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mahdiniazi1)
 [![HackerRank](https://img.shields.io/badge/HackerRank-4ea94b?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/m_mahdi_niazi)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/mmahdiniazi)
