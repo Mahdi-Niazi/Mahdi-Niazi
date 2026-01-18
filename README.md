@@ -67,13 +67,11 @@ I am a passionate Front-End Developer with a strong interest in building respons
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Activity
 
-| Project | Tech | Link |
-|-------|------|------|
-| Portfolio Website | HTML, CSS, JS | [View](https://github.com/mahdi-niazi) |
-| React Dashboard | React, API | [View](https://github.com/mahdi-niazi) |
-| Login System | PHP, MySQL | [View](https://github.com/mahdi-niazi) |
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdi-niazi&theme=tokyo-night)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahdi-niazi&color=blue)
 
 ---
 
